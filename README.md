@@ -6,7 +6,7 @@
 
 
 <div>
-    <h2> 🤝<b> Social network:</b></h3>
+    <h3> 🤝<b> Social network:</b></h3>
     <a href="https://vk.com/id294779621" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
