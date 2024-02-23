@@ -4,6 +4,7 @@
 
 This repository is intended for university-related work :man_technologist:
 
+---
 ### Social network: 🤝
 
 <div>
@@ -11,7 +12,7 @@ This repository is intended for university-related work :man_technologist:
         <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
 </div>
-___
+---
 ### 💻 Technologies:
 
 <div>
@@ -25,7 +26,7 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp
 </div>
 
-___
+---
 
 ### 🛠 Tools:
 
@@ -41,7 +42,7 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" alt="opencv" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;
 </div>
-___
+---
 
 ### ⚙️ GitHub statistics:
 
