@@ -1,4 +1,9 @@
-# Hi, everybody!
+<h1 style="text-align: center;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+everybody!+I'm+Alexander&color=%23FF0000&size=20&center=true&vCenter=true&duration=8000" style="width: 100%;">
+</h1>
+
+
+
 
 This repository is intended for university-related work :man_technologist:
 
@@ -46,6 +51,10 @@ This repository is intended for university-related work :man_technologist:
 ### ⚙️ GitHub statistics:
 
 <div>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
-  <img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Alexander-Domnenko&theme=lightk&background=FFFFFF"  />
+  <img height="195px"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alexander-Domnenko&layout=compact&theme=vision-friendly-light" />
 </div>
+
+![github-contribution-grid-snake](https://github.com/Alexander-Domnenko/Alexander-Domnenko/assets/91257943/402cac0b-6810-44c7-9e4c-fccefde2ddf9)
+
+
