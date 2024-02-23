@@ -2,19 +2,15 @@
 # Hi, everybody!
 
 
-### :man_technologist: This repository is intended for university-related work
+## This repository is intended for university-related work :man_technologist:
 
+## Social network: 🤝
 
 <div>
-    <h3> 🤝<b> Social network:</b></h3>
     <a href="https://vk.com/id294779621" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
 </div>
-
-
-
-___
 
 ### 💻 Technologies:
 
