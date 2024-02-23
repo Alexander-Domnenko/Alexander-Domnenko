@@ -1,6 +1,6 @@
 
 # Hi, everybody!
-___
+
 
 ### :man_technologist: This repository is intended for university-related work
 
