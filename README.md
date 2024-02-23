@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+everybody!+I'm+Alexander&color=%23FF0000&size=20&center=true&vCenter=true&duration=8000" style="width: 100%;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Even+in+the+darkest+abyss,+the+flame+of+determination+can+light+the+way+to+triumph."+-+Berserk&color=%23FF0000&size=20&center=true&vCenter=true&duration=8000" style="width: 100%;">
 </h1>
 
 
