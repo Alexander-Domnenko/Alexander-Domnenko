@@ -5,12 +5,13 @@
 ### :man_technologist: This repository is intended for university-related work
 
 
-<div>
-    <h3> 🤝<b> Social network:</b></h3>
-    <a href="https://vk.com/id294779621" target="_blank">
+<div style="text-align: center;">
+    <h3 style="display: inline;"> 🤝<b> Social network:</b></h3>
+    <a href="https://vk.com/id294779621" target="_blank" style="display: inline-block; vertical-align: middle;">
         <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
 </div>
+
 
 ___
 
