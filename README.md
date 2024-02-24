@@ -46,7 +46,43 @@ This repository is intended for university-related work :man_technologist:
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;
 </div>
 
----
+
+### 📄 Контент:
+
+#### 3rd year of university" 
+
+- #### Computer vision 
+  - [Counting the number of objects]() 
+  - [frequency symbols]()
+  - [motion path]()
+  - [nominal resolution]()
+  - [number of shapes of different shades and shapes]()
+  - [work on pair]()
+- #### Microcontrollers
+  - [Buttons leds](https://github.com/Alexander-Domnenko/homework_iot/tree/main/ButtonsLeds7_design)
+  - [First thing](https://github.com/Alexander-Domnenko/homework_iot/tree/main/FirstThing)
+  - [Led matrix](https://github.com/Alexander-Domnenko/homework_iot/tree/main/Led_matrix)
+  - [Led photo interactive](https://github.com/Alexander-Domnenko/homework_iot/tree/main/Led_photo_interactive)
+  - [Shift registers](https://github.com/Alexander-Domnenko/homework_iot/tree/main/ShiftRegisters)
+  - [Range leds](https://github.com/Alexander-Domnenko/homework_iot/tree/main/rangeLeds)
+- #### Simple projects for android studio
+  - [Adapting the markup](https://github.com/Alexander-Domnenko/development-of-applications-for-mobile-devices/tree/main/Adapting_the_markup)
+  - [Designing_the_application_interface_for_flight_search](https://github.com/Alexander-Domnenko/development-of-applications-for-mobile-devices/tree/main/Designing_the_application_interface_for_flight_search)
+  - [The_Colortiles_Puzzle](https://github.com/Alexander-Domnenko/development-of-applications-for-mobile-devices/tree/main/The_Colortiles_Puzzle)
+  - [The_application_is_a_random_movie_with_data_in_JSON](https://github.com/Alexander-Domnenko/development-of-applications-for-mobile-devices/tree/main/The_application_is_a_random_movie_with_data_in_JSON)
+  - [The_game_Guess_the_number](https://github.com/Alexander-Domnenko/development-of-applications-for-mobile-devices/tree/main/The_game_Guess_the_number)
+  - [The_random _movie_app](https://github.com/Alexander-Domnenko/development-of-applications-for-mobile-devices/tree/main/The_random%20_movie_app)
+  
+- #### Design of graphical user interfaces
+  - [Position_elements](https://github.com/Alexander-Domnenko/design/tree/main/QML_1_position_elements)
+  - [Layouts](https://github.com/Alexander-Domnenko/design/tree/main/QML_2_layouts)
+  - [User_nteraction](https://github.com/Alexander-Domnenko/design/tree/main/QML_3_user_nteraction)
+  - [Models_and_representations](https://github.com/Alexander-Domnenko/design/tree/main/QML_4_models_and_representations)
+  - [States_and_transitions](https://github.com/Alexander-Domnenko/design/tree/main/QML_5_states_and_transitions)
+  - [Stack_view](https://github.com/Alexander-Domnenko/design/tree/main/QML_6_stack_view)
+  - [Standard_interface_elements](https://github.com/Alexander-Domnenko/design/tree/main/QML_7_standard_interface_elements)
+  - [QML_THE_FINAL_APPLICATION](https://github.com/Alexander-Domnenko/design/tree/main/QML_THE_FINAL_APPLICATION)
+
 
 ### ⚙️ GitHub statistics:
 
