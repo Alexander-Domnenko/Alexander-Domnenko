@@ -1,5 +1,5 @@
 <h1 style="text-align: center;width: 100%;">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Just+wanna+be+happy&color=%23FF0000&size=20&center=true&vCenter=true&duration=8000" style="width: 100%;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I+just+want+to+be+happy.&color=%23FF0000&size=20&center=true&vCenter=true&duration=8000" style="width: 100%;">
 </h1>
 
 
