@@ -52,12 +52,12 @@ This repository is intended for university-related work :man_technologist:
 #### 3rd year of university" 
 
 - #### Computer vision 
-  - [Counting the number of objects]() 
-  - [frequency symbols]()
-  - [motion path]()
-  - [nominal resolution]()
-  - [number of shapes of different shades and shapes]()
-  - [work on pair]()
+  - [The sequency of colors](https://github.com/Alexander-Domnenko/homework_computer_vision/tree/main/The_sequence_of_colors)
+  - [Counting the number of objects](https://github.com/Alexander-Domnenko/homework_computer_vision/tree/main/counting_the_number_of_objects) 
+  - [Frequency symbols](https://github.com/Alexander-Domnenko/homework_computer_vision/tree/main/frequency_symbols)
+  - [Motion path](https://github.com/Alexander-Domnenko/homework_computer_vision/tree/main/motion_path)
+  - [Number of shapes of different shades and shapes](https://github.com/Alexander-Domnenko/homework_computer_vision/tree/main/number_of_shapes_of_different_shades_and_shapes)
+
 - #### Microcontrollers
   - [Buttons leds](https://github.com/Alexander-Domnenko/homework_iot/tree/main/ButtonsLeds7_design)
   - [First thing](https://github.com/Alexander-Domnenko/homework_iot/tree/main/FirstThing)
