@@ -7,7 +7,7 @@
 
 This repository is intended for university-related work :man_technologist:
 
-### Social network: 🤝
+### 🤝 Social network: 
 
 <div>
     <a href="https://vk.com/id294779621" target="_blank">
@@ -16,7 +16,7 @@ This repository is intended for university-related work :man_technologist:
 </div>
 
 ---
-### Technologies: 💻
+### 💻 Technologies: 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
@@ -31,7 +31,7 @@ This repository is intended for university-related work :man_technologist:
 
 ---
 
-### Tools: 🛠 
+### 🛠 Tools:  
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
