@@ -111,5 +111,12 @@ This repository is intended for university-related work :man_technologist:
   - [QML_THE_FINAL_APPLICATION](https://github.com/Alexander-Domnenko/design/tree/main/QML_THE_FINAL_APPLICATION)
     
 ### ⚙️ GitHub statistics:
+<div align="center" style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Alexander-Domnenko&theme=lightk&background=FFFFFF"  />
+  <img height="195px"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alexander-Domnenko&layout=compact&theme=vision-friendly-light" />
+</div>
 
+<div align="center" style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+   <img src="https://github.com/Alexander-Domnenko/Alexander-Domnenko/assets/91257943/402cac0b-6810-44c7-9e4c-fccefde2ddf9"/>
+</div>
 
