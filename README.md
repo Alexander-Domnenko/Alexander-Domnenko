@@ -70,6 +70,7 @@ This repository is intended for university-related work :man_technologist:
   - [Assemble the puzzle](https://github.com/Alexander-Domnenko/client-side-programming/tree/main/Assemble_the_puzzle)
   - [Business card designer](https://github.com/Alexander-Domnenko/client-side-programming/tree/main/business_card_designer)
   - [Calendar and multiplication table](https://github.com/Alexander-Domnenko/client-side-programming/tree/main/calendar_and_multiplication_table)
+  - [Task list](https://github.com/Alexander-Domnenko/client-side-programming/tree/main/task_list)
     
 - #### OOP python 🐍
   - [MineSweeper](https://gitlab.com/vlad.nikz45/minesweeper-2)
