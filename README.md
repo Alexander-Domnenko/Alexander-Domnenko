@@ -46,10 +46,35 @@ This repository is intended for university-related work :man_technologist:
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
-### 📄 Контент:
+## 📄 Контент:
 
-#### 3rd year of university" 
+### 1rd year of university"
+- ####  Markup languages
+  - [The prototype of the site](https://github.com/Alexander-Domnenko/Markup-languages/tree/main/website_prototype)
+  
+- #### Introduction to Programming
+  - [Action movie game](https://github.com/Alexander-Domnenko/homework/tree/main/1.2/02.17_%D0%91%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA)
+  - [Snake game](https://github.com/Alexander-Domnenko/homework/tree/main/1.2/14.04%20snake)
+  - [Planets](https://github.com/Alexander-Domnenko/homework/tree/main/2.3/13.22_planet)
+  - [4 in a row game](https://github.com/Alexander-Domnenko/homework/tree/main/2.3/4%D0%B2%D1%80%D1%8F%D0%B4)
+
+### 2rd year of university"
+- #### English Language
+  - [The prototype of the site](https://github.com/Alexander-Domnenko/English_project/tree/main/English_project)
+    
+- #### [Computer mathematics workshop](https://github.com/Alexander-Domnenko/Computer-Mathematics-Workshop/tree/main)
+  
+- #### Client-side-programming
+  - [Assemble the puzzle](https://github.com/Alexander-Domnenko/client-side-programming/tree/main/Assemble_the_puzzle)
+  - [Business card designer](https://github.com/Alexander-Domnenko/client-side-programming/tree/main/business_card_designer)
+  - [Calendar and multiplication table](https://github.com/Alexander-Domnenko/client-side-programming/tree/main/calendar_and_multiplication_table)
+    
+- #### OOP python
+  - [MineSweeper](https://gitlab.com/vlad.nikz45/minesweeper-2)
+  
+### 3rd year of university" 
 
 - #### Computer vision 
   - [The sequency of colors](https://github.com/Alexander-Domnenko/homework_computer_vision/tree/main/The_sequence_of_colors)
@@ -65,6 +90,7 @@ This repository is intended for university-related work :man_technologist:
   - [Led photo interactive](https://github.com/Alexander-Domnenko/homework_iot/tree/main/Led_photo_interactive)
   - [Shift registers](https://github.com/Alexander-Domnenko/homework_iot/tree/main/ShiftRegisters)
   - [Range leds](https://github.com/Alexander-Domnenko/homework_iot/tree/main/rangeLeds)
+    
 - #### Simple projects for android studio
   - [Adapting the markup](https://github.com/Alexander-Domnenko/development-of-applications-for-mobile-devices/tree/main/Adapting_the_markup)
   - [Designing_the_application_interface_for_flight_search](https://github.com/Alexander-Domnenko/development-of-applications-for-mobile-devices/tree/main/Designing_the_application_interface_for_flight_search)
@@ -82,8 +108,7 @@ This repository is intended for university-related work :man_technologist:
   - [Stack_view](https://github.com/Alexander-Domnenko/design/tree/main/QML_6_stack_view)
   - [Standard_interface_elements](https://github.com/Alexander-Domnenko/design/tree/main/QML_7_standard_interface_elements)
   - [QML_THE_FINAL_APPLICATION](https://github.com/Alexander-Domnenko/design/tree/main/QML_THE_FINAL_APPLICATION)
-
-
+    
 ### ⚙️ GitHub statistics:
 
 <div align="center" style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);">
